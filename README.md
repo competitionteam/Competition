@@ -1,1 +1,2 @@
 # Competition
+first use git
